@@ -1,7 +1,7 @@
 {
     "name": "chordsandtabs.tafitson",
     "description": "Simple chords-and-tabs.net Webapp",
-    "architecture": all,
+    "architecture": "all",
     "title": "Chords and Tabs",
     "hooks": {
         "chordsandtabs": {
