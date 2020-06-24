@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Chords and Tabs
+Exec=webapp-container --webappUrlPatterns=https://*.chords-and-tabs.net/* --fullscreen --store-session-cookies --user-agent-string='Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36' https://www.chords-and-tabs.net
+Icon=assets/logo.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
